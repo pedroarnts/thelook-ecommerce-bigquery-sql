@@ -9,7 +9,7 @@ Projeto de análise de dados em SQL utilizando o **Google BigQuery** (via Python
 * Validar qualidade dos dados (unicidade de chaves, integridade referencial e tratamento de nulos) e exportar os resultados em CSV.
 
 ## Estrutura do Repositório
-* `projeto_bigquery_2.ipynb`: Notebook com todo o código Python/SQL, validações e interpretações de negócio.
+* `projeto_bigquery.ipynb`: Notebook com todo o código Python/SQL, validações e interpretações de negócio.
 * `q01_amostra_pedidos.csv`: Amostra inicial da tabela de pedidos.
 * `q02_prazo_entrega_pedidos.csv`: Top 50 pedidos concluídos mais recentes com maior prazo de entrega.
 * `q03_receita_mensal_status.csv`: Evolução mensal de receita, pedidos e ticket médio por status.
